@@ -221,7 +221,7 @@ table > thead > tr > th {
     vertical-align: bottom;
     border-bottom: 2px solid #f3f4f7;
     text-transform: none;
-    background-color: #f3f4f7;
+    background-color: #777;
     color: white;
     text-align: left;
 }
