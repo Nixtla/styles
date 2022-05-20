@@ -1371,7 +1371,7 @@ div.input + details {
 }
 
 .output_wrapper{
-    /*overflow: scroll;*/
+    overflow: scroll;
 }
 
 .notebook-badge-image {
